@@ -34,13 +34,13 @@ https://al-quranica.vercel.app/id
 Clone the project
 
 ```bash
-  git clone https://github.com/wwxxc/Al-Quranica
+  git clone https://github.com/wahyuuuwid/al-quranica
 ```
 
 Go to the project directory
 
 ```bash
-  cd Al-Quranica
+  cd al-quranica
 ```
 
 Install dependencies
@@ -58,7 +58,7 @@ Start the app
 
 ## Authors
 
-- [@wwxxc](https://www.github.com/wwxxc)
+- [@wwxxc](https://www.github.com/wahyuuuwid)
 ## Support
 
 For support, [trakteer me](https://trakteer.id/woilah3/link)
