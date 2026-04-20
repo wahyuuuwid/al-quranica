@@ -18,7 +18,7 @@ Desktop View
 
 ## Demo
 
-https://al-quranica.vercel.app/id
+https://al-quranica-five.vercel.app
 ## Features
 
 - Ayat al-quran lengkap beserta terjemahan nya.
